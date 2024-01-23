@@ -1,0 +1,37 @@
+-> Resume:
+-Les operateurs sont les symboles qui permettent de manipuler des variables, c'est a dire effectuer des operations
+les evaluer etc.
+-Nous avons les d'operateurs de calcul:
+                                            operateur d'addition ( + )
+                                            operateur de soustraction ( - )
+                                            operateur de multiplication ( * )
+                                            operateur de division ( / )
+                                            operateur de modulo ( % )
+                                            operateur d'affection ( = )
+
+-Nous avons les operateurs d'incrimentation:
+                                              incrimentation  ( ++ )
+                                               decrementation ( -- )
+-
+-
+-
+-
+-
+
+
+
+
+
+
+
+
+
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nyamarinette/05-operateurs.git
+git push -u origin main
